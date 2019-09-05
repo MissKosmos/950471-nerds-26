@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Miss Kosmos](https://up.htmlacademy.ru/htmlcss/26/user/950471).
-* Наставник: `Неизвестно`.
+* Наставник: [Данил Чушко](https://htmlacademy.ru/profile/flatdesign).
 
 ---
 
